@@ -1,1 +1,1 @@
-samples of Data Science using Python 
+Samples of Data Science using Python 
